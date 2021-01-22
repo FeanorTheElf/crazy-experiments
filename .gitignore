@@ -1,0 +1,5 @@
+.settings
+.vs
+Debug
+Experiment/Debug
+*.vcxproj.user
